@@ -1,0 +1,15 @@
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\bin\Debug\net8.0\CompanyManager.Application.deps.json
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\bin\Debug\net8.0\CompanyManager.Application.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\bin\Debug\net8.0\CompanyManager.Application.pdb
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\CompanyManager.Application.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\CompanyManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\CompanyManager.Application.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\CompanyManager.Application.AssemblyInfo.cs
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\CompanyManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\CompanyManager.Application.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\refint\CompanyManager.Application.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\CompanyManager.Application.pdb
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\ref\CompanyManager.Application.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\bin\Debug\net8.0\CompanyManager.Domain.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\bin\Debug\net8.0\CompanyManager.Domain.pdb
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Application\obj\Debug\net8.0\CompanyM.4ACF848B.Up2Date

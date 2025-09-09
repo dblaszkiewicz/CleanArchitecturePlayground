@@ -1,0 +1,11 @@
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\bin\Debug\net8.0\CompanyManager.Domain.deps.json
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\bin\Debug\net8.0\CompanyManager.Domain.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\bin\Debug\net8.0\CompanyManager.Domain.pdb
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\obj\Debug\net8.0\CompanyManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\obj\Debug\net8.0\CompanyManager.Domain.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\obj\Debug\net8.0\CompanyManager.Domain.AssemblyInfo.cs
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\obj\Debug\net8.0\CompanyManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\obj\Debug\net8.0\CompanyManager.Domain.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\obj\Debug\net8.0\refint\CompanyManager.Domain.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\obj\Debug\net8.0\CompanyManager.Domain.pdb
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Domain\obj\Debug\net8.0\ref\CompanyManager.Domain.dll

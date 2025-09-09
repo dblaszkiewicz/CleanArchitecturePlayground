@@ -1,0 +1,17 @@
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\bin\Debug\net8.0\CompanyManager.Infrastructure.deps.json
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\bin\Debug\net8.0\CompanyManager.Infrastructure.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\bin\Debug\net8.0\CompanyManager.Infrastructure.pdb
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\bin\Debug\net8.0\CompanyManager.Application.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\bin\Debug\net8.0\CompanyManager.Domain.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\bin\Debug\net8.0\CompanyManager.Application.pdb
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\bin\Debug\net8.0\CompanyManager.Domain.pdb
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\CompanyManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\CompanyManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\CompanyManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\CompanyManager.Infrastructure.AssemblyInfo.cs
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\CompanyManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\CompanyM.CCC23661.Up2Date
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\CompanyManager.Infrastructure.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\refint\CompanyManager.Infrastructure.dll
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\CompanyManager.Infrastructure.pdb
+C:\Users\dawid\source\repos\CompanyManager\CompanyManager.Infrastructure\obj\Debug\net8.0\ref\CompanyManager.Infrastructure.dll
